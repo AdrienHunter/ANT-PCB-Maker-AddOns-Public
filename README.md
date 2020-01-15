@@ -1,7 +1,8 @@
 # ANT-PCB-Maker-AddOns-Public
-Add On's related to the ANT PCB Maker -> Credits goes to the ANT Team developed all the nice stuff
+Add-On's related to the ANT PCB Maker -> Credits goes to the ANT Team developed all the nice stuff:
+https://bitbucket.org/compactpcbmaker/cpcbm/src/master/
 
-depending on the original file below license notes:
+Depending on the original files/project below license notes:
 
 NOTE: All the files and informations in the mechanics folder of this repository are licensed under CC-BY-NC-SA license.
 Please, refer to the following link to know the details about this license.
