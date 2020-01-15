@@ -13,6 +13,9 @@ https://www.thingiverse.com/thing:3961313
 "Andrew Harpur" as I added a few items out of his 20x20mm frame design:
 https://gallery.autodesk.com/fusion360/projects/139459/the-ant-pcb-router-20x20mm-frame
 
+"Carl Shelton" remixed the LED side panels from Thingiverse:
+https://www.thingiverse.com/thing:3715382
+
 ## License:  
 Depending on the original files/project below license notes:
 
@@ -21,3 +24,8 @@ Please, refer to the following link to know the details about this license.
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+## Changes/Add-On's:
+..* Printed parts re-designed (less support and ABS schrinking included)
+..* LED side bars added
