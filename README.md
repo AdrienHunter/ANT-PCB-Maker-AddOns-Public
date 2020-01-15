@@ -27,5 +27,5 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ## Changes/Add-On's:
-..* Printed parts re-designed (less support and ABS schrinking included)
-..* LED side bars added
+* Printed parts re-designed (less support and ABS schrinking included)
+* LED side bars added
