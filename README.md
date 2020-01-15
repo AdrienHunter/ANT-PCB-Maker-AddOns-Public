@@ -25,6 +25,8 @@ Please, refer to the following link to know the details about this license.
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
+## Contribution:
+Feel free to contribute and send a pull request to get your changes included into the cad .step file
 
 ## Changes/Add-On's:
 * Printed parts re-designed (less support / ABS schrinking included & minor changes)
