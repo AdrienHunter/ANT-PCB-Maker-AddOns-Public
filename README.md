@@ -34,3 +34,4 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 * Redesigned pulley's and motor mount
 * Bridge rod admission changes
 * Pulley idler changed (no need fo washers & locking nuts)
+* Dust collector added (work in progress, head integration missing)
