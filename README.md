@@ -4,11 +4,14 @@
 
 Add-On's related to the ANT PCB Maker -> Credits goes to the ANT Team developed all the nice stuff:
 https://bitbucket.org/compactpcbmaker/cpcbm/src/master/
+Follow on Instagram: https://www.instagram.com/the_ant_team/
 
-Additional credits to "Nanocube" as I added a remix of his "Small cyclone dust buster for Small CNC machines":
+Additional credits:
+
+To "Nanocube" as I added a remix of his "Small cyclone dust buster for Small CNC machines":
 https://www.thingiverse.com/thing:3961313
 
-And final credits to "Andrew Harpur" as I added a few items out of his 20x20mm frame design:
+To "Andrew Harpur" as I added a few items out of his 20x20mm frame design:
 https://gallery.autodesk.com/fusion360/projects/139459/the-ant-pcb-router-20x20mm-frame
 
   
