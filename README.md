@@ -8,7 +8,7 @@ https://bitbucket.org/compactpcbmaker/cpcbm/src/master/
 Additional credits to "Nanocube" as I added a remix of his "Small cyclone dust buster for Small CNC machines":
 https://www.thingiverse.com/thing:3961313
 
-And final credits to "Andrew Harpur" as I used a few items out of his 20x20mm frame disign:
+And final credits to "Andrew Harpur" as I added a few items out of his 20x20mm frame design:
 https://gallery.autodesk.com/fusion360/projects/139459/the-ant-pcb-router-20x20mm-frame
 
   
