@@ -27,5 +27,10 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 ## Changes/Add-On's:
-* Printed parts re-designed (less support and ABS schrinking included)
+* Printed parts re-designed (less support / ABS schrinking included & minor changes)
 * LED side bars added
+* WS2812b LED ligtning head insert
+* New head cover
+* Redesigned pulley's and motor mount
+* Bridge rod admission changes
+* Pulley idler changed (no need fo washers & locking nuts)
