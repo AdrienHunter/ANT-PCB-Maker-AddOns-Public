@@ -36,4 +36,4 @@ Feel free to contribute and send a pull request to get your changes included int
 * Redesigned pulley's and motor mount (new o-rings needed 21.95mm x 1.78mm)
 * Bridge rod admission changes
 * Pulley idler changed (no need fo washers & locking nuts)
-* Dust collector added (work in progress, head integration missing)
+* Dust collector & Dust head added
