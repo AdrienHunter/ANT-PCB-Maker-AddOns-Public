@@ -1,5 +1,5 @@
 # ANT-PCB-Maker-AddOns-Public (work in progress)
-![Tha Ant AddOns](Add-Ons_1.6.JPG)
+![Tha Ant AddOns](Add-Ons_1.7.JPG)
 
 
 ## Credits:
@@ -36,4 +36,4 @@ Feel free to contribute and send a pull request to get your changes included int
 * Redesigned pulley's and motor mount (new o-rings needed 21.95mm x 1.78mm)
 * Bridge rod admission changes
 * Pulley idler changed (no need fo washers & locking nuts)
-* Dust collector & Dust head added
+* Dust collector & Dust head added (Final, in testing)
