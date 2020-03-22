@@ -6,6 +6,10 @@
 
 # The ANT is a live and placed in the cave
 ![It's alive](The_Ant.jpg)
+![It's alive](The Ant_Top.jpg)
+![It's alive](The_Ant_Side.jpg)
+
+
 
 
 ## Credits:
@@ -34,6 +38,9 @@ Feel free to contribute and send a pull request to get your changes included int
 
 ## The Ant cave:
 * Keeps the ANT quiet ( 1M / < 38db) Will ensure you ANT will not escape... 
+* Glass wool and fabric is keeping the ANT quiet
+* double glass layer
+* seperated electronics case 
 
 
 ## Changes/Add-On's:
