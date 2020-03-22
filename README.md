@@ -38,7 +38,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 Feel free to contribute and send a pull request to get your changes included into the cad .step file
 
 
-## The Ant cave:
+## The ANT cave:
 * Keeps the ANT quiet ( 1M / < 38db) Will ensure you ANT will not escape... 
 * Glass wool and fabric is keeping the ANT quiet
 * double glass layer
