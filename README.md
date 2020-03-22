@@ -4,7 +4,7 @@
 # The ANT Cave
 ![The Case](case.JPG)
 
-# The ANT is a live and placed in the cave
+# The ANT is alive and placed in the cave
 ![It's alive](The_Ant.jpg)
 ![It's alive](The Ant_Top.jpg)
 ![It's alive](The_Ant_Side.jpg)
