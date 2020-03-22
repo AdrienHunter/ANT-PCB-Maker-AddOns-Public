@@ -27,6 +27,11 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 ## Contribution:
 Feel free to contribute and send a pull request to get your changes included into the cad .step file
 
+
+## The Ant cave:
+* Keeps the ANT quiet ( 1M / < 38db) Will ensure you ANT will not escape... 
+
+
 ## Changes/Add-On's:
 * Printed parts re-designed (less support / ABS schrinking included & minor changes)
 * LED side bars added
