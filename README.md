@@ -6,7 +6,9 @@
 
 # The ANT is alive and placed in the cave
 ![It's alive](The_Ant.jpg)
+
 ![It's alive](The_Ant_Top.jpg)
+
 ![It's alive](The_Ant_Side.jpg)
 
 
