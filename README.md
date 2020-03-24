@@ -50,7 +50,8 @@ Feel free to contribute and send a pull request to get your changes included int
 * LED side bars added
 * WS2812b LED ligtning head insert including cable management
 * New head cover
-* Redesigned pulley's and motor mount (new o-rings needed 21.95mm x 1.78mm)
+* Redesigned pulley's and motor mount (new o-rings needed 21.95mm x 1.78mm or 24.00 x 2.00)
+
 * Bridge rod admission changes
 * Pulley idler changed (no need fo washers & locking nuts)
 * Dust collector (Still missing Vacuum cleaner)
